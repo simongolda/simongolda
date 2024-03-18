@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
 <h3 align="center">A passionate full-stack developer from germany</h3>
 
-- 🔭 I’m currently working on [FirmFixx](https://juke-media.de)
+- 🔭 I’m currently working on [FirmFixx](https://firmfixx.de)
 
 - 🌱 I’m currently learning **PHP, Laravel**
 
