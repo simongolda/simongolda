@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/7messq.gif"  />
+<img align="right" height="150" src="https://raw.githubusercontent.com/simongolda/simongolda/refs/heads/main/Bild.jpeg"  />
 
 ###
 
